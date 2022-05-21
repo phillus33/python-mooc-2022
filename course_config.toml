@@ -406,3 +406,175 @@ checksum = 'a7e4fd794bc52ab4217c9aade4dc748a'
 [exercises.part07-18_own_programming_language]
 id = 152015
 checksum = '7e3eb4d1d078df8e1711a96a79fc8d87'
+
+[exercises.part08-01_smallest_average]
+id = 151794
+checksum = '410f610d3ff3ce8a650d600030803749'
+
+[exercises.part08-02_row_sums]
+id = 151807
+checksum = '5c0de1525604edb33138c995e63b8080'
+
+[exercises.part08-03_list_years]
+id = 151795
+checksum = '3501874c384f7705e81dadf2cbdf3d14'
+
+[exercises.part08-04_shopping_list]
+id = 151808
+checksum = '6766c18b4a9c2f7acdca5c9fbbd5e263'
+
+[exercises.part08-05_book]
+id = 151805
+checksum = '1912bb8fd388e5e41818cd49b22dc158'
+
+[exercises.part08-06_three_classes]
+id = 151806
+checksum = '2cbe958dda2f33a7e9c0951fcc802a7e'
+
+[exercises.part08-07_pet]
+id = 151796
+checksum = '15792625405a01b0971c2e08fe67c36b'
+
+[exercises.part08-08_older_book]
+id = 151802
+checksum = '424aebf2c4f37a1d6113f0db9bed036f'
+
+[exercises.part08-09_books_of_genre]
+id = 151797
+checksum = 'cbd935124a06fc24fa011a9f44ec6beb'
+
+[exercises.part08-10_decreasing_counter]
+id = 151799
+checksum = 'c7e5c3295e6ac033f4ff87c637e98b2f'
+
+[exercises.part08-11_first_and_last_name]
+id = 151800
+checksum = '6deebb6ec8c5ed50cd92dfba8920e522'
+
+[exercises.part08-12_number_stats]
+id = 151801
+checksum = 'dcd6bfeb99bf4863f1a8749cb4e90842'
+
+[exercises.part08-13_stopwatch]
+id = 151804
+checksum = '5d8f9cabfbdd609eabdd9e905c43d0b5'
+
+[exercises.part08-14_clock]
+id = 151803
+checksum = '8b686468e32861775da59198a9da47b3'
+
+[exercises.part08-15_lunchcard]
+id = 151809
+checksum = '44d990b297fc2210fffa0f29c2dba69d'
+
+[exercises.part08-16_series]
+id = 151798
+checksum = '42cfa88ce7361368b083dbefcec4212f'
+
+[exercises.part09-01_fastest_car]
+id = 151863
+checksum = 'f74f2e3d5a975d0bc679eb542bdb198f'
+
+[exercises.part09-02_passing_submissions]
+id = 151862
+checksum = 'ea5a4ac1212709dc3e3c49ef87654e02'
+
+[exercises.part09-03_baby_centre]
+id = 151855
+checksum = '5f5be9c521f2aa90fbbcb106a9e92471'
+
+[exercises.part09-04_lunchcard_and_paymentterminal]
+id = 151850
+checksum = '8d2a36f90178e6a9fcc184b91be8d415'
+
+[exercises.part09-05_comparing_properties]
+id = 151857
+checksum = 'b1c0fc489d625e012494876739415658'
+
+[exercises.part09-06_pets]
+id = 151858
+checksum = '3e8a2f8f9dd7837c99c6d333bf261494'
+
+[exercises.part09-07_box_of_presents]
+id = 151849
+checksum = 'be80e5cebdee0276d8986e5216150665'
+
+[exercises.part09-08_shortest_in_room]
+id = 151860
+checksum = 'ed96ecb08e34b32cf1963b392ee9a8f1'
+
+[exercises.part09-09_car]
+id = 151859
+checksum = 'c4866594aebc767e84145eebb36f332e'
+
+[exercises.part09-10_recording]
+id = 151852
+checksum = 'e65493a25736d7d5ffe4770c831280a8'
+
+[exercises.part09-11_weather_station]
+id = 151854
+checksum = '4ea9d78a52c0a0816a27a3f3153a6b1f'
+
+[exercises.part09-12_service_charge]
+id = 151856
+checksum = 'a28328ed9b4a23780e4e3407f795cea8'
+
+[exercises.part09-13_postcodes]
+id = 151861
+checksum = 'c38ef8c8e47bc2b4ac4ca7e0b5206898'
+
+[exercises.part09-14_list_helper]
+id = 151853
+checksum = '382e684d51996d2531499bf0fa3264eb'
+
+[exercises.part09-15_item_suitcase_hold]
+id = 151851
+checksum = 'bba8512b0e3d30f0250e7501cf5d4b08'
+
+[exercises.part10-01_laptop_computer]
+id = 151846
+checksum = '78be1cb53b03eb258f7461f39fb12c98'
+
+[exercises.part10-02_game_museum]
+id = 151844
+checksum = '7b9e08ff47b8c1e89178c50cd9cc7c5a'
+
+[exercises.part10-03_areas]
+id = 151848
+checksum = '35ac4603d6dd34dd88488a88d02da5f9'
+
+[exercises.part10-04_word_game]
+id = 151838
+checksum = '92afee985f7ffaaf88b41bb0cc28f5f1'
+
+[exercises.part10-05_supergroup]
+id = 151839
+checksum = 'c0a6a5404e8c9cd42654bb345a2054fd'
+
+[exercises.part10-06_secret_magic_potion]
+id = 151841
+checksum = 'ca0ae4740045e4e63fc610c3594f7f04'
+
+[exercises.part10-07_money]
+id = 151842
+checksum = '9c52b0ba03abf7006156e061c58ea68b'
+
+[exercises.part10-08_simple_date]
+id = 151840
+checksum = '17e66e204c330caaffc5bf18e2934832'
+
+[exercises.part10-09_iterable_shopping_list]
+id = 151843
+checksum = 'ff261252934f25cfae098c9663831bdd'
+
+[exercises.part10-10_phone_book_v1]
+id = 151847
+checksum = '1fc4af758544bada881ea424fdce9cfe'
+
+[exercises.part10-11_phone_book_v2]
+id = 151845
+checksum = '8f878e93da89f2aef21bceec70249cee'
+
+[exercises.part10-12_course_records]
+id = 151837
+checksum = '596b1834b0a944a9fe413fed8b07433f'
