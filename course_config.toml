@@ -578,3 +578,207 @@ checksum = '8f878e93da89f2aef21bceec70249cee'
 [exercises.part10-12_course_records]
 id = 151837
 checksum = '596b1834b0a944a9fe413fed8b07433f'
+
+[exercises.part11-01_square_roots]
+id = 151955
+checksum = '3bae2659361d6e5afe68177f0fde791d'
+
+[exercises.part11-02_rows_of_stars]
+id = 151965
+checksum = '59942ea557ea56f8e70bd1d363055e44'
+
+[exercises.part11-03_best_exam_result]
+id = 151953
+checksum = 'ecf486baa4659a9bc3e97b45e89bf342'
+
+[exercises.part11-04_lengths]
+id = 151947
+checksum = '48b25d944a756abe869b625d8edb7002'
+
+[exercises.part11-05_remove_smaller_than]
+id = 151949
+checksum = 'ed36d0c0cb4a1e1e726605d5a41d9cc0'
+
+[exercises.part11-06_begin_with_vowel]
+id = 151952
+checksum = 'd7b489a56edc6fa00c5b573b64cb1afb'
+
+[exercises.part11-07_lottery_numbers]
+id = 151963
+checksum = '6769682aba1236241a432fb38d5d0531'
+
+[exercises.part11-08_filter_forbidden]
+id = 151962
+checksum = '4bc9cf30b7f4444c69d040ad9ee61b0d'
+
+[exercises.part11-09_products_in_shopping_list]
+id = 151948
+checksum = 'f96e64138cc83fbdc56842af9e8a98d3'
+
+[exercises.part11-10_cheaper_properties]
+id = 151951
+checksum = 'fe1a9e876b1b06f32c8191c9a718068a'
+
+[exercises.part11-11_lengths_of_strings]
+id = 151958
+checksum = '414f8c7b1f064dd2c516f1ff0b45098c'
+
+[exercises.part11-12_most_common_words]
+id = 151957
+checksum = 'b2dd2b389f0c254d6df91ae7e8a20f02'
+
+[exercises.part11-13_add_numbers_to_list]
+id = 151950
+checksum = '266c7b59b656f17c455bf3eb90c80106'
+
+[exercises.part11-14_recursive_sum]
+id = 151961
+checksum = '9d6ed6af8064bfb8fd1c690dc0ffc550'
+
+[exercises.part11-15_balanced_brackets]
+id = 151964
+checksum = 'f74ca29943145f685f9d4925c2393cd5'
+
+[exercises.part11-16_greatest_node]
+id = 151960
+checksum = 'e14f62efc6d8516e300c1dc555fe030b'
+
+[exercises.part11-17_bosses_and_subordinates]
+id = 151956
+checksum = 'a87bd264a8fc89f83d3963a74cd2fbf4'
+
+[exercises.part11-18_order_book]
+id = 151954
+checksum = '30ee044e23cc1a1c26d69995a3ffff33'
+
+[exercises.part11-19_order_book_application]
+id = 151959
+checksum = 'bd631833f22f109c3befacd2fe7c0fd3'
+
+[exercises.part12-01_remaining_stock]
+id = 151914
+checksum = 'eff800eed89215acf7796c4d05be8140'
+
+[exercises.part12-02_seasons]
+id = 151919
+checksum = '727ba6b8354f02acdcfc145649f18aaa'
+
+[exercises.part12-03_ratings]
+id = 151917
+checksum = 'c501292e94ec03ff92d4d6fea860a07e'
+
+[exercises.part12-04_climbing_route]
+id = 151916
+checksum = '44e69a5464d4a71026f113460be2586e'
+
+[exercises.part12-05_climbing_areas]
+id = 151925
+checksum = '4096b3db2ccba2c17bc522ea512ba1df'
+
+[exercises.part12-06_ballplayers]
+id = 151921
+checksum = '9009ca94db741eab25d856f64fa133c5'
+
+[exercises.part12-07_product_search]
+id = 151922
+checksum = 'b59ecc7fa57daa09d8b5f65ee380b0ee'
+
+[exercises.part12-08_even_numbers]
+id = 151926
+checksum = '990233049b39ea4c001a06590d5ed471'
+
+[exercises.part12-09_prime_numbers]
+id = 151913
+checksum = 'd8aecd8cd44a50fa4a7a501c3497ea02'
+
+[exercises.part12-10_random_words]
+id = 151918
+checksum = '90a6731a11a2a6c849b86269dcf3f441'
+
+[exercises.part12-11_attempted_courses]
+id = 151927
+checksum = '59d7ee7d7d5b128411c09f156fc040b8'
+
+[exercises.part12-12_filtering_attempts]
+id = 151923
+checksum = 'b6b53db6e251bdfc8fec9bb0c9851b21'
+
+[exercises.part12-13_credits]
+id = 151920
+checksum = '578c43bfc8e3b638cb52b2660577af29'
+
+[exercises.part12-14_regular_expressions]
+id = 151924
+checksum = '2bdab6fb2aee6b8ce6ab210f11940707'
+
+[exercises.part12-15_hockey_statistics]
+id = 151915
+checksum = 'b74420f434daea7114725d549797cdd9'
+
+[exercises.part13-01_four_robots]
+id = 151902
+checksum = '48ef065117e1f3bc9da822688684659d'
+
+[exercises.part13-02_robots_row]
+id = 151898
+checksum = '1e6bce2bd5084c432221eef4ae6e8153'
+
+[exercises.part13-03_hundred_robots]
+id = 151912
+checksum = '2184d1b6c587fb24fca14bda410236a9'
+
+[exercises.part13-04_random_robots]
+id = 151907
+checksum = 'dec15ad8eff05395699e2686db7a1365'
+
+[exercises.part13-05_vertical_movement]
+id = 151906
+checksum = '453e1fd8e320dd5768fd42793a90899b'
+
+[exercises.part13-06_round_the_perimeter]
+id = 151909
+checksum = 'edde579a3b969d2e2db9134edea8c801'
+
+[exercises.part13-07_two_robots]
+id = 151903
+checksum = 'eb35b15a680ddd2dbeb27e60189f62a5'
+
+[exercises.part13-08_robot_circle]
+id = 151911
+checksum = '9ab6aecfc7e70474ac0ff81aec9af6c2'
+
+[exercises.part13-09_bouncing_ball]
+id = 151910
+checksum = '33cbc790593217ac4ab9aec59ce33a74'
+
+[exercises.part13-10_robot_invasion]
+id = 151900
+checksum = '0a64bd66fcd53d51081c31a4d60c72f7'
+
+[exercises.part13-11_four_directions]
+id = 151905
+checksum = '89b537fc47a3a67f684f8555b6d1e0c1'
+
+[exercises.part13-12_four_walls]
+id = 151908
+checksum = '48da74c7f539349bc96ca9e8a88b0444'
+
+[exercises.part13-13_two_players]
+id = 151897
+checksum = '898cac62914bc83009dcfdc99efb60ab'
+
+[exercises.part13-14_robot_and_mouse]
+id = 151899
+checksum = '821aae237ae80db29f80805cd5c03fc3'
+
+[exercises.part13-15_robot_location]
+id = 151896
+checksum = '2b29d1b620319a98647f5a6ecfc749fd'
+
+[exercises.part13-16_clock]
+id = 151901
+checksum = 'd7d7bc0857b5b1824d16bb92c01c8c05'
+
+[exercises.part13-17_asteroids]
+id = 151904
+checksum = 'dce477bc29547692ed623175a430e4bf'
