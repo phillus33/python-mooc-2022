@@ -8,3 +8,28 @@ class CourseAttempt:
         return f"{self.student_name}, grade for the course {self.course_name} {self.grade}"
 
 
+def accepted(attempts: list):
+    return list(filter(lambda c: c.grade > 0, attempts))
+
+def attempts_with_grade(attempts: list, grade: int):
+    return filter(lambda course: course.grade == grade, attempts)
+
+def passed_students(attempts: list, course: str):
+    return sorted(list(map(lambda c: c.student_name, filter(lambda x: x.grade > 0 and x.course_name == course, attempts))))
+
+    # for easier understanding below: first filter then map
+    # it is possible to map and filter on an iterator object
+    # filtered_attempts = filter(lambda ca: ca.grade > 0 and ca.course_name == course, attempts)
+    # mapped_students = map(lambda student: student.student_name, filtered_attempts)
+    # return sorted(list(mapped_students))
+
+
+if __name__ == "__main__":
+    s1 = CourseAttempt("Peter Python", "Introduction to Programming", 3)
+    s2 = CourseAttempt("Olivia C. Objective", "Introduction to AI", 5)
+    s3 = CourseAttempt("Peter Python", "Introduction to AI", 0)
+    s4 = CourseAttempt("Jack Java", "Introduction to AI", 3)
+
+
+    for attempt in passed_students([s1, s2, s3, s4], "Introduction to AI"):
+        print(attempt)
